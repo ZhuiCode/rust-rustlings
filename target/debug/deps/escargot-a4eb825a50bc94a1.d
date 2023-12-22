@@ -1,0 +1,15 @@
+/home/zhanghui/workspace/rust-rustlings-2023-autumn-ZhuiCode/target/debug/deps/escargot-a4eb825a50bc94a1.rmeta: /home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/lib.rs /home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/build.rs /home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/cargo.rs /home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/msg.rs /home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/run.rs /home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/error.rs /home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/format/mod.rs /home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/format/diagnostic.rs /home/zhanghui/workspace/rust-rustlings-2023-autumn-ZhuiCode/target/debug/build/escargot-165a852439d55f54/out/current_target.txt
+
+/home/zhanghui/workspace/rust-rustlings-2023-autumn-ZhuiCode/target/debug/deps/escargot-a4eb825a50bc94a1.d: /home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/lib.rs /home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/build.rs /home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/cargo.rs /home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/msg.rs /home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/run.rs /home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/error.rs /home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/format/mod.rs /home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/format/diagnostic.rs /home/zhanghui/workspace/rust-rustlings-2023-autumn-ZhuiCode/target/debug/build/escargot-165a852439d55f54/out/current_target.txt
+
+/home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/lib.rs:
+/home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/build.rs:
+/home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/cargo.rs:
+/home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/msg.rs:
+/home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/run.rs:
+/home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/error.rs:
+/home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/format/mod.rs:
+/home/zhanghui/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/format/diagnostic.rs:
+/home/zhanghui/workspace/rust-rustlings-2023-autumn-ZhuiCode/target/debug/build/escargot-165a852439d55f54/out/current_target.txt:
+
+# env-dep:OUT_DIR=/home/zhanghui/workspace/rust-rustlings-2023-autumn-ZhuiCode/target/debug/build/escargot-165a852439d55f54/out
